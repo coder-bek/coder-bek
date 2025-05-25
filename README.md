@@ -18,9 +18,6 @@ My daily routine:
 - 🎮 Game-based web apps
 - 🕸️ Exploring Web3 frontend magic
 
-💬 *Always open to collaborations — especially if your idea starts with:*  
-> “Zo‘r narsa qilamizmi?” 😎
-
 ---
 
 ## 📫 Contact Me
