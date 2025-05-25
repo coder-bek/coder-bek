@@ -41,14 +41,14 @@ My daily routine:
 
 | Project | Link |
 |--------|------|
-| 🛍️ Uzum Market Clone | [Visit ↗](https://uzum-clone-asl.vercel.app/) |
-| 🎯 Todo List App (Exam Mode) | [Visit ↗](https://asilbek-todo.vercel.app/) |
+| 🛍️ Uzum Market Clone | [Visit ↗]() |
+| 🎯 Todo List App (Exam Mode) | [Visit ↗]() |
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,vite,html,css,bootstrap,tailwind,figma,github,vercel,vscode&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,react,vite,html,css,bootstrap,tailwind,figma,github,vercel,postman,vscode&perline=8)](#)
 
 ---
 
