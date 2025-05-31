@@ -48,7 +48,7 @@ My daily routine:
 
 ## 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,vite,html,css,bootstrap,tailwind,figma,github,vercel,vscode&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,react,vite,html,css,sass,bootstrap,tailwind,figma,github,vercel,git,vscode&perline=8)](#)
 
 ---
 
